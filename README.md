@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Trata-se de um projeto de um site responsivo chamado AluraBook que vende livros técnicos na área de tecnologia.
+Trata-se de um projeto de um site responsivo chamado AluraBooks que vende livros técnicos na área de tecnologia.
 
 ## 🔖 Layout
 
