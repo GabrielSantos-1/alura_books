@@ -13,7 +13,7 @@ Projeto promovido pela Alura de ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="Projeto" src="./" width="100%">
+  <img alt="Projeto" src="./assets/imgdesktop.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
